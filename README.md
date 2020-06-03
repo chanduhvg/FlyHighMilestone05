@@ -126,13 +126,13 @@
 ## Approach: Agile Approach
 
 **Roles and Responsibilities** 
+| **Name**| **Position** | **Project Role** | **Contact Information** |
+| --- | --- | --- | --- | --- |
+|Shiva Rama Krishna Vodnala ![](RackMultipart20200603-4-qrp6mx_html_98a155025e2f0a13.png) | Team Lead and Developer | Team Member | S538103@nwmissouri.edu |
+| Krishna Sumanth Koyyalamudi ![](RackMultipart20200603-4-qrp6mx_html_d97a660846dc1796.png) | Developer and Content Writer| Team Member | S538345@nwmissouri.edu |
+| Swaroopa Tirumalareddy ![](RackMultipart20200603-4-qrp6mx_html_c5135094729aed43.png) | Manager and Content Writer  | ProjectManager | [S538426@nwmissouri.edu](mailto:S538426@nwmissouri.edu) |
+| Gopichand Bandarupalli ![](RackMultipart20200603-4-qrp6mx_html_2bbf6f77f8036134.png) | Developer  | Team Member | [S538305@nwmissouri.edu](mailto:S538305@nwmissouri.edu) |
 
-|**Name and Signature** | **Role** | **Position** | **Contact Information**|
---- | --- | --- | --- | --- |
-|Shiva Rama Krishna Vodnala ![](RackMultipart20200603-4-swxqqj_html_98a155025e2f0a13.png) |Team Member | Developer | [S538103@nwmissouri.edu](mailto:S538103@nwmissouri.edu) |
-| Krishna Sumanth Koyyalamudi ![](RackMultipart20200603-4-swxqqj_html_d97a660846dc1796.png) | Team Member | Developer and Content Writer | [S538345@nwmissouri.edu](mailto:S538345@nwmissouri.edu) |
-| Swaroopa Tirumalareddy ![](RackMultipart20200603-4-swxqqj_html_e47031ab345b9de3.gif) | Project Manager | Manager and Content Writer | [S538426@nwmissouri.edu](mailto:S538426@nwmissouri.edu) |
-| Gopichand Bandarupalli ![](RackMultipart20200603-4-swxqqj_html_1b30c508272b60a9.gif) | Lead | Team Lead | [S538305@nwmissouri.edu](mailto:S538305@nwmissouri.edu) |
 
 
 ## Stakeholder Register for E-Pharma
