@@ -126,6 +126,7 @@
 ## Approach: Agile Approach
 
 **Roles and Responsibilities** 
+
 | **Name**| **Position** | **Project Role** | **Contact Information** |
 | --- | --- | --- | --- | --- |
 |Shiva Rama Krishna Vodnala ![](RackMultipart20200603-4-qrp6mx_html_98a155025e2f0a13.png) | Team Lead and Developer | Team Member | S538103@nwmissouri.edu |
