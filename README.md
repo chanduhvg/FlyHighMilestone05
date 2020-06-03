@@ -728,8 +728,7 @@ c. Size and Volume data specifies the data cannot exceed 20 TB.
 
 **Prepared by:** Swaroopa Tirumalareddy **Date:** June 3, 2020
 
-| **Name**
- | **Position** | **Internal/External** | **Project Role** | **Contact Information** |
+| **Name**| **Position** | **Internal/External** | **Project Role** | **Contact Information** |
 | --- | --- | --- | --- | --- |
 |
 Shiva Rama Krishna Vodnala ![](RackMultipart20200603-4-qrp6mx_html_98a155025e2f0a13.png) | Team Lead and Developer | **Internal** | Team Member | S538103@nwmissouri.edu |
