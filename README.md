@@ -128,8 +128,8 @@
 **Roles and Responsibilities** 
 
 |**Name and Signature** | **Role** | **Position** | **Contact Information**|
-| --- | --- | --- | --- | --- |
-|Shiva Rama Krishna Vodnala ![](RackMultipart20200603-4-swxqqj_html_98a155025e2f0a13.png) | Team Member | Developer | [S538103@nwmissouri.edu](mailto:S538103@nwmissouri.edu) |
+--- | --- | --- | --- | --- |
+|Shiva Rama Krishna Vodnala ![](RackMultipart20200603-4-swxqqj_html_98a155025e2f0a13.png) |Team Member | Developer | [S538103@nwmissouri.edu](mailto:S538103@nwmissouri.edu) |
 | Krishna Sumanth Koyyalamudi ![](RackMultipart20200603-4-swxqqj_html_d97a660846dc1796.png) | Team Member | Developer and Content Writer | [S538345@nwmissouri.edu](mailto:S538345@nwmissouri.edu) |
 | Swaroopa Tirumalareddy ![](RackMultipart20200603-4-swxqqj_html_e47031ab345b9de3.gif) | Project Manager | Manager and Content Writer | [S538426@nwmissouri.edu](mailto:S538426@nwmissouri.edu) |
 | Gopichand Bandarupalli ![](RackMultipart20200603-4-swxqqj_html_1b30c508272b60a9.gif) | Lead | Team Lead | [S538305@nwmissouri.edu](mailto:S538305@nwmissouri.edu) |
