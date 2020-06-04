@@ -126,12 +126,13 @@
 ## Approach: Agile Approach
 
 **Roles and Responsibilities** 
-| **Name**| **Position** | **Project Role** | **Contact Information** |
+
+| **Name** | **Position** | **Internal/External** | **Project Role** | **Contact Information** |
 | --- | --- | --- | --- | --- |
-|Shiva Rama Krishna Vodnala  | Team Lead and Developer | Team Member | S538103@nwmissouri.edu |
-| Krishna Sumanth Koyyalamudi  | Developer and Content Writer| Team Member | S538345@nwmissouri.edu |
-| Swaroopa Tirumalareddy  | Manager and Content Writer  | ProjectManager | [S538426@nwmissouri.edu](mailto:S538426@nwmissouri.edu) |
-| Gopichand Bandarupalli  | Developer  | Team Member | [S538305@nwmissouri.edu](mailto:S538305@nwmissouri.edu) |
+| Swaroopa Tirumalareddy | Manager and Content Writer | Internal | Project Manager | [S538426@nwmissouri.edu](mailto:S538426@nwmissouri.edu) |
+| Gopichand Bandarupalli | Developer | Internal | Team Member | [S538305@nwmissouri.edu](mailto:S538305@nwmissouri.edu) |
+| Krishna Sumanth Koyyalamudi | Developer and Content Writer | Internal | Team Member | S538345@nwmissouri.edu |
+| Shiva Rama Krishna Vodnala | Lead | Internal | Team Member | S538103@nwmissouri.edu |
 
 
 
