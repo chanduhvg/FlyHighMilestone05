@@ -2,11 +2,11 @@
 
 ## Scenario:
 
-### SRK Technologies is a software development Company that focuses on developing mobile applications for various clients. The company has currently acquired the project to develop a mobile application. The client has asked SRK Technologies to develop a mobile application where you can buy medicines required online by uploading prescription in the application.
+ SRK Technologies is a software development Company that focuses on developing mobile applications for various clients. The company has currently acquired the project to develop a mobile application. The client has asked SRK Technologies to develop a mobile application where you can buy medicines required online by uploading prescription in the application.
 
 ## Statement of need: 
 
-### It is an application which is useful for Drug distributors to update/add available drugs for customers. Customer can view/search for the availability of drugs from different drugstores.
+ It is an application which is useful for Drug distributors to update/add available drugs for customers. Customer can view/search for the availability of drugs from different drugstores.
 
 ## Team name: Fly High
 
@@ -21,21 +21,21 @@
 
 ## Working as a team:
 
-### We all will be working together with co-ordination in organized manner. We will work together with diligence and motivation to lead a project toward success. As we all have defined the responsibilities of our individual roles, will look forward to work by supporting each other.
+We all will be working together with co-ordination in organized manner. We will work together with diligence and motivation to lead a project toward success. As we all have defined the responsibilities of our individual roles, will look forward to work by supporting each other.
 
 
 ## Team Meeting:
 
-### Our team meets on Zoom online meeting site to keep track of the project on Every alternative days from 3:00PM to 5:30 PM.  In the team online meeting, we will discuss the progress of the work and difficulties faced during the project.
+Our team meets on Zoom online meeting site to keep track of the project on Every alternative days from 3:00PM to 5:30 PM.  In the team online meeting, we will discuss the progress of the work and difficulties faced during the project.
 
 ## Contacting:
 
-### The team shall stay in contact through e-mails and Zoom for Business. When there is emergency, we shall contact the team member using their personal mobile number.
+The team shall stay in contact through e-mails and Zoom for Business. When there is emergency, we shall contact the team member using their personal mobile number.
 
 
 ## Dealing with a non-participating team member:
 
-### As we all are the active team participants, we hope that everyone actively works on this project. Due to any reasons any of the team member falls behind, all the other team members will be supporting and encouraging him/her.
+As we all are the active team participants, we hope that everyone actively works on this project. Due to any reasons any of the team member falls behind, all the other team members will be supporting and encouraging him/her.
 
 ## Knowledge Areas and their artifacts
 
