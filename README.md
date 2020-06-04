@@ -2,11 +2,11 @@
 
 ## Scenario:
 
- SRK Technologies is a software development Company that focuses on developing mobile applications for various clients. The company has currently acquired the project to develop a mobile application. The client has asked SRK Technologies to develop a mobile application where you can buy medicines required online by uploading prescription in the application.
+SRK Technologies is a software development Company that focuses on developing mobile applications for various clients. The company has currently acquired the project to develop a mobile application. The client has asked SRK Technologies to develop a mobile application where you can buy medicines required online by uploading prescription in the application.
 
 ## Statement of need: 
 
- It is an application which is useful for Drug distributors to update/add available drugs for customers. Customer can view/search for the availability of drugs from different drugstores.
+It is an application which is useful for Drug distributors to update/add available drugs for customers. Customer can view/search for the availability of drugs from different drugstores.
 
 ## Team name: Fly High
 
@@ -121,7 +121,7 @@ As we all are the active team participants, we hope that everyone actively works
 ### Developing a mobile application which helps in buying medicine online.
 
 ## Success Criteria:
-### Meeting triple constraints (scope, time and cost) and customer satisfaction. It is an application which is useful for Drug distributors to update/add available drugs for customers. Customer can view/search for the availability of drugs from different drugstores. This application helps customers to search for a drugstore along with availability of the desired drugs in stores up to date in Real. In addition, it also specifies if a store has delivery availability. Customers search for exactly needed medicine or they can explore given categories and options and can select any product or medicine from there which reduces a lot of effort. 
+Meeting triple constraints (scope, time and cost) and customer satisfaction. It is an application which is useful for Drug distributors to update/add available drugs for customers. Customer can view/search for the availability of drugs from different drugstores. This application helps customers to search for a drugstore along with availability of the desired drugs in stores up to date in Real. In addition, it also specifies if a store has delivery availability. Customers search for exactly needed medicine or they can explore given categories and options and can select any product or medicine from there which reduces a lot of effort. 
 
 ## Approach: Agile Approach
 
