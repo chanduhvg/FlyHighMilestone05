@@ -126,13 +126,12 @@
 ## Approach: Agile Approach
 
 **Roles and Responsibilities** 
-
 | **Name**| **Position** | **Project Role** | **Contact Information** |
- --- | --- | --- | --- | --- |
-Shiva Rama Krishna Vodnala ![](RackMultipart20200603-4-qrp6mx_html_98a155025e2f0a13.png) | Team Lead and Developer | Team Member | S538103@nwmissouri.edu |
-Krishna Sumanth Koyyalamudi ![](RackMultipart20200603-4-qrp6mx_html_d97a660846dc1796.png) | Developer and Content Writer| Team Member | S538345@nwmissouri.edu 
-| Swaroopa Tirumalareddy ![](RackMultipart20200603-4-qrp6mx_html_c5135094729aed43.png) | Manager and Content Writer  | ProjectManager | [S538426@nwmissouri.edu](mailto:S538426@nwmissouri.edu) 
- Gopichand Bandarupalli ![](RackMultipart20200603-4-qrp6mx_html_2bbf6f77f8036134.png) | Developer  | Team Member | [S538305@nwmissouri.edu](mailto:S538305@nwmissouri.edu) |
+| --- | --- | --- | --- | --- |
+|Shiva Rama Krishna Vodnala  | Team Lead and Developer | Team Member | S538103@nwmissouri.edu |
+| Krishna Sumanth Koyyalamudi  | Developer and Content Writer| Team Member | S538345@nwmissouri.edu |
+| Swaroopa Tirumalareddy  | Manager and Content Writer  | ProjectManager | [S538426@nwmissouri.edu](mailto:S538426@nwmissouri.edu) |
+| Gopichand Bandarupalli  | Developer  | Team Member | [S538305@nwmissouri.edu](mailto:S538305@nwmissouri.edu) |
 
 
 
